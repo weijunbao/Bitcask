@@ -1,0 +1,9 @@
+########################
+dataFile
+------------------------
+crc timestamp	keySize	valuesize	key	value
+
+1	1			1		1			X	X
+
+
+########################
